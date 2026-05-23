@@ -1,2 +1,2 @@
-# springboot-jwt-authentication
+# springboot-ecommerce-jwt
 jwt Authentication
